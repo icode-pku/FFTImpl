@@ -6,10 +6,9 @@
 
 | 日期 | 论文 | 作者 | 会议 | 开源 | 链接 |
 | -- | -- | -- | -- | -- | -- |
-|2024/01/05|OpenFFT: An Open-Source Package for 3-D FFTs with Minimal Volume of Communication|T.V.T. Duy|ISC 2014|已开源|[OpenFFT](https://www.openmx-square.org/openfft/#Download)|
 
 ## CPU
 
-
 | 日期 | 论文 | 作者 | 会议 | 开源 | 链接 |
-| --: | -- | -- | --: | -- | -- |
+| -- | -- | -- | -- | -- | -- |
+|2024/01/05|OpenFFT: An Open-Source Package for 3-D FFTs with Minimal Volume of Communication|T.V.T. Duy|ISC 2014|已开源|[OpenFFT](https://www.openmx-square.org/openfft/#Download)|
