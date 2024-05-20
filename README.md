@@ -6,6 +6,7 @@
 
 | 日期 | 论文 | 作者 | 会议 | 开源 | 链接 |
 | -- | -- | -- | -- | -- | -- |
+|2023-01-03|VkFFT-A Performant, Cross-Platform and Open-Source GPU FFT Library|Dmitrii Tolmachev|...|已开源|[vkFFT](https://github.com/DTolm/VkFFT)|
 
 ## CPU
 
